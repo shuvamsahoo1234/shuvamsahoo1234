@@ -1,704 +1,474 @@
 <!-- ========================================================= -->
 <!--                     SHUVAM SAHOO                          -->
-<!--             CYBERPUNK GITHUB PROFILE                      -->
+<!--          AI • PYTHON • DATA SCIENCE • EDTECH             -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<!-- ========================== HERO ========================== -->
+<!-- ======================= ANIMATED HERO ======================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,20:00F5FF,45:7F00FF,70:FF00C8,100:020024&height=260&section=header&text=Shuvam%20Sahoo&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Developer%20%7C%20Python%20Trainer%20%7C%20Data%20Scientist&descAlignY=62&descSize=18"/>
-
-<br>
-
-<!-- ====================== TERMINAL NAV ====================== -->
-
-<table>
-<tr>
-
-<td align="center">
-<a href="#about-me">
-<img src="https://img.shields.io/badge/⌂%20About-020024?style=for-the-badge&labelColor=020024&color=00F5FF"/>
-</a>
-</td>
-
-<td align="center">
-<a href="#expertise">
-<img src="https://img.shields.io/badge/◈%20Expertise-020024?style=for-the-badge&labelColor=020024&color=7F00FF"/>
-</a>
-</td>
-
-<td align="center">
-<a href="#projects">
-<img src="https://img.shields.io/badge/▣%20Projects-020024?style=for-the-badge&labelColor=020024&color=FF00C8"/>
-</a>
-</td>
-
-<td align="center">
-<a href="#github-statistics">
-<img src="https://img.shields.io/badge/▥%20Stats-020024?style=for-the-badge&labelColor=020024&color=00F5FF"/>
-</a>
-</td>
-
-<td align="center">
-<a href="#connect-with-me">
-<img src="https://img.shields.io/badge/✉%20Contact-020024?style=for-the-badge&labelColor=020024&color=7F00FF"/>
-</a>
-</td>
-
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0F172A,45:0066FF,70:7C3AED,100:020617&height=280&section=header&text=SHUVAM%20SAHOO&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Developer%20%7C%20Python%20Trainer%20%7C%20Data%20Scientist%20%7C%20Educator&descAlignY=61&descSize=18"/>
 
 <br>
 
-<!-- ====================== TYPING INTRO ====================== -->
+<!-- ======================= TERMINAL ======================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+I'm+Shuvam+Sahoo;%3E+AI+Developer+%F0%9F%A4%96;%3E+Python+Trainer+%F0%9F%90%8D;%3E+Data+Scientist+%F0%9F%93%8A;%3E+Teacher+%7C+Trainer+%7C+Developer;%3E+Building+real-world+AI%2FML+solutions+%F0%9F%9A%80" alt="Typing SVG"/>
-
-<br><br>
-
-<!-- ========================= STATUS ======================== -->
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=020024"/>
-<img src="https://img.shields.io/badge/ROLE-AI%20DEVELOPER-7F00FF?style=for-the-badge&labelColor=020024"/>
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-FF00C8?style=for-the-badge&labelColor=020024"/>
-<img src="https://img.shields.io/badge/EXPERIENCE-50%2B%20ML%20PROJECTS-00F5FF?style=for-the-badge&labelColor=020024"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=%3E+Initializing+ShuvamOS...;%3E+Loading+AI+modules...;%3E+Loading+Python+environment...;%3E+Loading+Machine+Learning+models...;%3E+Loading+Data+Science+tools...;%3E+System+Online+%E2%9C%93;%3E+Let's+build+something+intelligent+%F0%9F%9A%80" alt="Terminal Animation"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shuvamsahoo1234&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge"/>
+<!-- ======================= STATUS ======================= -->
 
-<img src="https://img.shields.io/github/followers/shuvamsahoo1234?label=FOLLOWERS&style=for-the-badge&logo=github&color=7F00FF"/>
+<img src="https://img.shields.io/badge/●%20SYSTEM-ONLINE-00E676?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/AI%20DEVELOPER-0066FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/PYTHON%20TRAINER-7C3AED?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/DATA%20SCIENTIST-00D9FF?style=for-the-badge&labelColor=020617"/>
 
 <br><br>
 
-### `⚡ Turning ideas into intelligent solutions ⚡`
+<img src="https://komarev.com/ghpvc/?username=shuvamsahoo1234&label=PROFILE%20VIEWS&color=0066FF&style=for-the-badge"/>
 
-<br>
+<img src="https://img.shields.io/github/followers/shuvamsahoo1234?label=FOLLOWERS&style=for-the-badge&logo=github&color=7C3AED"/>
 
-`TEACH` &nbsp; `CODE` &nbsp; `BUILD` &nbsp; `TRAIN` &nbsp; `INNOVATE` &nbsp; `REPEAT`
+<br><br>
+
+### `⌨ CODE  •  🧠 LEARN  •  🤖 BUILD  •  👨‍🏫 TEACH  •  🚀 INNOVATE`
 
 </div>
 
 
 <!-- ========================================================= -->
-<!--                         ABOUT ME                           -->
+<!--                  DIGITAL DIVIDER                          -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0066FF,50:7C3AED,100:00D9FF&height=3&section=header"/>
+
+</div>
+
+
+<!-- ========================================================= -->
+<!--                       NAVIGATION                           -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<a href="#about-me">
+<img src="https://img.shields.io/badge/ABOUT-020617?style=for-the-badge&logo=readme&logoColor=00D9FF"/>
+</a>
+
+<a href="#expertise">
+<img src="https://img.shields.io/badge/EXPERTISE-020617?style=for-the-badge&logo=codeforces&logoColor=0066FF"/>
+</a>
+
+<a href="#projects">
+<img src="https://img.shields.io/badge/PROJECTS-020617?style=for-the-badge&logo=github&logoColor=7C3AED"/>
+</a>
+
+<a href="#experience">
+<img src="https://img.shields.io/badge/EXPERIENCE-020617?style=for-the-badge&logo=briefcase&logoColor=00E676"/>
+</a>
+
+<a href="#connect">
+<img src="https://img.shields.io/badge/CONNECT-020617?style=for-the-badge&logo=internetexplorer&logoColor=00D9FF"/>
+</a>
+
+</div>
+
+
+<!-- ========================================================= -->
+<!--                         ABOUT                              -->
 <!-- ========================================================= -->
 
 <a name="about-me"></a>
 
-# 🚀 About Me
+# 🖥️ About Me
 
 <table>
 <tr>
 
-<td width="60%">
+<td width="58%">
 
-### 👋 Hi, I'm Shuvam Sahoo
+┌───────────────────────────────────────────────┐
+│              USER PROFILE                    │
+├───────────────────────────────────────────────┤
+│                                               │
+│  > whoami                                     │
+│                                               │
+│  Shuvam Sahoo                                 │
+│                                               │
+│  Role                                         │
+│  ├── AI Developer                             │
+│  ├── Python Trainer                           │
+│  ├── Data Scientist                           │
+│  └── Educator                                 │
+│                                               │
+│  Organization                                 │
+│  └── Simplified Computer                      │
+│                                               │
+│  Location                                     │
+│  └── Bhubaneswar, Odisha                      │
+│                                               │
+│  Status                                       │
+│  └── ● ONLINE                                 │
+│                                               │
+└───────────────────────────────────────────────┘
+👋 Hello, I'm Shuvam
 
-```text
-> whoami
+I'm an AI Developer, Python Trainer and Data Scientist interested in solving real-world problems using programming, Artificial Intelligence, Machine Learning and Data Science.
 
-Shuvam Sahoo
-AI Developer | Python Trainer | Data Scientist
-Teacher | Technologist | EdTech Educator
-```
+Currently working in EdTech @ Simplified Computer, focusing on practical programming, Python training, AI/ML, Data Science and project-based learning.
 
-I'm an **AI Developer and Python Trainer** focused on solving real-world problems through software development, Artificial Intelligence, Machine Learning and data-driven solutions.
-
-I currently work in **EdTech @ Simplified Computer**, where I teach and develop practical learning experiences around programming, computer science, Python, Java, Data Science and AI/ML.
-
-🌱 Continuously exploring new technologies
-
-🤖 Focused on Artificial Intelligence & Machine Learning
-
-🐍 Advanced Python development
-
-📊 Data Science & Machine Learning
-
-👨‍🏫 Python training and computer science education
-
-💻 Software and backend development
-
-🚀 Building practical, real-world projects
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvamsahoo1234&bg_color=020024&color=00F5FF&line=7F00FF&point=FF00C8&area=true&hide_border=true" width="100%"/>
-
-</td>
-
-</tr>
-</table>
-
-
-<!-- ========================================================= -->
-<!--                      CURRENTLY                             -->
-<!-- ========================================================= -->
-
-# 🎯 Currently
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   🤖 AI Developer                                    │
-│   🐍 Python Trainer                                  │
-│   🎓 EdTech @ Simplified Computer                    │
-│   📊 Data Science & Machine Learning                 │
-│   💻 Software Development                            │
-│   🧠 Advanced Python Libraries                       │
-│   🚀 Real-World AI/ML Projects                       │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-### 🔭 Currently Working On
-
-- Artificial Intelligence applications
-- Machine Learning projects
-- Python development
-- Data Science projects
-- Educational technology
-- Practical programming projects
-
-### 🌱 Currently Learning
-
-- Advanced AI/ML concepts
-- Advanced Python libraries
-- Data Science techniques
-- Software development
-- Modern development tools and frameworks
-
-### 👯 Interested In
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Python
-- Software Development
-- EdTech
-- Real-world problem solving
-
-
-<!-- ========================================================= -->
-<!--                    PROFESSIONAL PROFILE                    -->
-<!-- ========================================================= -->
-
-# 💼 Professional Profile
-
-```text
-AI DEVELOPER
-      │
-      ├── Python Development
-      ├── Machine Learning
-      ├── Data Science
-      ├── Artificial Intelligence
-      └── Real-World Applications
-
-PYTHON TRAINER
-      │
-      ├── Programming Fundamentals
-      ├── Advanced Python
-      ├── Data Science
-      ├── Machine Learning
-      └── Project-Based Learning
-
-EDTECH
-      │
-      └── Simplified Computer
-```
-
-### 🏢 EdTech @ Simplified Computer
-
-Working in computer education and practical technical training, with a focus on programming, Python, Java, databases, Data Science and AI/ML.
-
-Simplified Computer provides practical coding and computer education programs including Python, Java, MySQL, Data Science and AI/ML. 
-
-
-<!-- ========================================================= -->
-<!--                         EXPERTISE                          -->
-<!-- ========================================================= -->
+</td> <td width="42%" align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvamsahoo1234&bg_color=020617&color=00D9FF&line=0066FF&point=7C3AED&area=true&hide_border=true"/> <br>
+╔══════════════════════╗
+║    CORE MISSION      ║
+╠══════════════════════╣
+║                      ║
+║  Solve real-world    ║
+║  problems through    ║
+║  technology.         ║
+║                      ║
+║  Learn → Build       ║
+║  Teach → Improve     ║
+║                      ║
+╚══════════════════════╝
+</td> </tr> </table> <!-- ========================================================= --> <!-- CURRENT STATUS --> <!-- ========================================================= -->
+⚡ Current System Status
+<div align="center">
+SYSTEM	STATUS
+🤖 Artificial Intelligence	ACTIVE
+🧠 Machine Learning	ACTIVE
+🐍 Python Development	ACTIVE
+📊 Data Science	ACTIVE
+👨‍🏫 Python Training	ACTIVE
+🎓 EdTech	ACTIVE
+💻 Software Development	ACTIVE
+</div> <!-- ========================================================= --> <!-- EXPERTISE --> <!-- ========================================================= -->
 
 <a name="expertise"></a>
 
-# ⚡ Expertise
+🧠 Technical Expertise
+🐍 Programming
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,php&theme=dark"/> </div> <br>
+🤖 AI / Machine Learning
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark"/> </div>
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        │       ├── Classification
+        │       ├── Regression
+        │       ├── Prediction
+        │       └── Model Evaluation
+        │
+        ├── Data Science
+        │       ├── Data Analysis
+        │       ├── Data Processing
+        │       ├── Visualization
+        │       └── Feature Engineering
+        │
+        └── Real-World Applications
+🌐 Web Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,flask&theme=dark"/> </div>
+🗄️ Databases
+<div align="center"> <img src="https://skillicons.dev/icons?i=mysql,oracle&theme=dark"/> </div>
+🛠️ Tools & Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/> </div> <!-- ========================================================= --> <!-- EXPERIENCE --> <!-- ========================================================= -->
 
-<div align="center">
+<a name="experience"></a>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-020024?style=for-the-badge&logo=ai&logoColor=00F5FF&color=00F5FF"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-020024?style=for-the-badge&logo=python&logoColor=7F00FF&color=7F00FF"/>
-<img src="https://img.shields.io/badge/Data%20Science-020024?style=for-the-badge&logo=pandas&logoColor=FF00C8&color=FF00C8"/>
-<img src="https://img.shields.io/badge/Python-020024?style=for-the-badge&logo=python&logoColor=00F5FF&color=00F5FF"/>
-<img src="https://img.shields.io/badge/Java-020024?style=for-the-badge&logo=openjdk&logoColor=FF00C8&color=FF00C8"/>
-<img src="https://img.shields.io/badge/SQL-020024?style=for-the-badge&logo=mysql&logoColor=7F00FF&color=7F00FF"/>
+💼 Experience
+<table> <tr> <td>
+🤖 AI Developer / Python Trainer
 
-</div>
+EdTech @ Simplified Computer
 
-<br>
+Python training
+AI / ML education
+Data Science
+Practical programming
+Project-based learning
+Student mentoring
+Educational technology
+</td> <td>
+💻 Backend Developer
 
-## 🐍 Python & Data Science
+Techzez Software Pvt. Ltd.
 
-- Python Programming
-- NumPy
-- Pandas
-- Data Analysis
-- Data Visualization
-- Machine Learning
-- Statistical Analysis
-- Data Processing
-- Model Development
+Jan 2023 – Present
 
-## 🤖 Artificial Intelligence & Machine Learning
+Backend development
+Software development
+Real-world application development
+Problem solving
+</td> </tr> <tr> <td>
+📊 Data Scientist
 
-- Supervised Learning
-- Unsupervised Learning
-- Regression
-- Classification
-- Predictive Modeling
-- Feature Engineering
-- Model Evaluation
-- Real-World ML Applications
+PIPLI AI — Argument Intelligence
 
-## ☕ Java Development
+May 2022 – Dec 2022
 
-- Core Java
-- Object-Oriented Programming
-- Java Swing
-- GUI Application Development
-- JDBC
-- Problem Solving
+Data analysis
+Finding patterns and trends
+Algorithm development
+Machine Learning models
+Data-driven recommendations
+</td> <td>
+👨‍🏫 Computer Science Teacher
 
-## 🌐 Web Development
+Simplified Computer
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Python Web Development
+Aug 2023 – Present
 
-## 🗄️ Databases
-
-- MySQL
-- Oracle
-- SQL
-
-## 🛠️ Development Tools
-
-- NetBeans IDE
-- Python IDLE
-- Git
-- GitHub
-
-
-<!-- ========================================================= -->
-<!--                    50+ PROJECTS                            -->
-<!-- ========================================================= -->
-
-# 🚀 50+ Machine Learning Projects
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║                 MACHINE LEARNING                    ║
-║                                                      ║
-║                    50+ PROJECTS                     ║
-║                                                      ║
-║        Python • Data • AI • Prediction              ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-Hands-on experience developing **50+ Machine Learning projects using advanced Python libraries**, covering different real-world problem domains.
-
-### 🔬 Areas of Exploration
-
-```text
-Data Analysis
-     ↓
-Data Cleaning
-     ↓
-Feature Engineering
-     ↓
-Machine Learning
-     ↓
-Model Evaluation
-     ↓
-Prediction
-     ↓
-Real-World Application
-```
-
-
-<!-- ========================================================= -->
-<!--                         PROJECTS                           -->
-<!-- ========================================================= -->
+B.Tech student teaching
++2 / +3 B.Sc CS / IT coaching
+Practical education
+Project guidance
+</td> </tr> </table> <!-- ========================================================= --> <!-- 50+ PROJECTS --> <!-- ========================================================= -->
+🚀 50+ Machine Learning Projects
+<div align="center"> <img src="https://img.shields.io/badge/50%2B-MACHINE%20LEARNING%20PROJECTS-0066FF?style=for-the-badge&labelColor=020617"/> <img src="https://img.shields.io/badge/PYTHON-AI%20%2F%20ML-7C3AED?style=for-the-badge&labelColor=020617"/> <img src="https://img.shields.io/badge/DATA-DATA%20SCIENCE-00D9FF?style=for-the-badge&labelColor=020617"/> </div> <br>
+                    ┌───────────────┐
+                    │   REAL WORLD  │
+                    │    PROBLEM    │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │     DATA      │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │   PYTHON      │
+                    │   PROCESSING  │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │ MACHINE       │
+                    │ LEARNING      │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │  PREDICTION   │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │   SOLUTION    │
+                    └───────────────┘
+<!-- ========================================================= --> <!-- PROJECTS --> <!-- ========================================================= -->
 
 <a name="projects"></a>
 
-# 🧠 Key Projects
+🧪 Featured Projects
+<table> <tr> <td width="50%">
+🌱 Agrobot
 
-## 🌱 01 — Agrobot
+AI in Agriculture
 
-**AI in Agriculture**
+An AI-focused agriculture project exploring intelligent technology for agricultural problem solving.
 
-An Artificial Intelligence based agriculture-focused project exploring how technology and intelligent systems can assist with real-world agricultural problems.
+Python AI ML
 
-`Python` `AI` `Machine Learning` `Agriculture`
+</td> <td width="50%">
+🌾 Crop Prediction
 
----
+AI / Machine Learning
 
-## 🌾 02 — Crop Prediction using AI/ML
+Machine Learning based crop prediction using agricultural data and predictive techniques.
 
-Machine Learning based crop prediction designed to use agricultural data to support crop-related predictions.
+Python ML Data Science
 
-`Python` `Machine Learning` `Data Science` `Prediction`
+</td> </tr> <tr> <td>
+🌍 CO₂ Emission Prediction
 
----
+Machine Learning based prediction of CO₂ emissions using data-driven techniques.
 
-## 🌍 03 — CO₂ Emission Prediction
+Python ML Regression
 
-A Machine Learning project focused on predicting CO₂ emissions using data-driven techniques.
+</td> <td>
+💳 UPI QR Payment
 
-`Python` `Machine Learning` `Regression` `Data Science`
+Python application focused on UPI QR payment functionality.
 
----
+Python QR Application
 
-## 💳 04 — UPI QR Payment Application
-
-A Python-based application concept for generating/working with UPI QR payment functionality.
-
-`Python` `QR Code` `Application Development`
-
----
-
-## 🧪 05 — Data Science Projects
-
-Hands-on Data Science work involving:
-
-- Data analysis
-- Data cleaning
-- Data visualization
-- Python-based data processing
-- Machine Learning
-- Predictive modeling
-
-
-<!-- ========================================================= -->
-<!--                       EXPERIENCE                           -->
-<!-- ========================================================= -->
-
-# 💼 Experience
-
-### 🤖 AI Developer / Python Trainer
-**EdTech @ Simplified Computer**
-
-- Python training
-- AI/ML education
-- Data Science
-- Programming
-- Practical project development
-- Student mentoring
-- Real-world application development
-
----
-
-### 💻 Backend Developer
-**Techzez Software Pvt. Ltd., Bhubaneswar**
-
-**Jan 2023 – Present**
-
-- Backend development
-- Software development
-- Real-world problem solving
-- Application development
-
----
-
-### 📊 Data Scientist
-**PIPLI AI — Argument Intelligence, Bhubaneswar**
-
-**May 2022 – Dec 2022**
-
-- Finding patterns and trends in datasets
-- Creating algorithms and data models
-- Applying Machine Learning techniques
-- Improving data/product quality
-- Communicating recommendations to teams
-
----
-
-### 👨‍🏫 Computer Science Teacher
-**Simplified Computer, BJB Nagar, Bhubaneswar**
-
-**Aug 2023 – Present**
-
-- Teaching B.Tech students
-- Coaching +2 / +3 B.Sc Computer Science / IT students
-- Practical computer science education
-- Academic and project guidance
-
----
-
-### 🐍 Python / Java Developer
-**Techzez Software, Bhubaneswar**
-
-**Aug 2022 – Present**
-
-- Educational content development
-- Notes, tests and assignments
-- Programming education
-- Class management
-- Interactive learning activities
-
-
-<!-- ========================================================= -->
-<!--                        EDUCATION                           -->
-<!-- ========================================================= -->
-
-# 🎓 Education
-
-| Qualification | Institution | Period | Result |
-|---|---|---|---|
-| MCA — Computer Science | Utkal University | 2021–2023 | 8.7 CGPA |
-| B.Sc — Computer Science | OUAT | 2018–2021 | 8.8 CGPA |
-| Intermediate | College of Basic Science & Humanities, OUAT | 2016–2018 | 71% |
-| Matriculation | Govt. High School, Laxmisagar | 2015–2016 | 88% |
-
-
-<!-- ========================================================= -->
-<!--                         TEACHING                           -->
-<!-- ========================================================= -->
-
-# 👨‍🏫 Teaching & Training
-
-```text
-             ┌──────────────────────────────┐
-             │      SIMPLIFIED COMPUTER     │
-             └──────────────┬───────────────┘
-                            │
-             ┌──────────────┼──────────────┐
-             ↓              ↓              ↓
-          PYTHON           JAVA          AI / ML
-             │              │              │
-             ↓              ↓              ↓
-        DATA SCIENCE      OOP         MACHINE LEARNING
-             │              │              │
-             └──────────────┼──────────────┘
-                            ↓
-                   PRACTICAL PROJECTS
-```
-
-### Training Areas
-
-- Python Programming
-- Core Java
-- Data Science
-- Artificial Intelligence
-- Machine Learning
-- MySQL / SQL
-- Programming Fundamentals
-- Project Development
-- Problem Solving
-
-The Simplified Computer platform publicly lists Python, Core Java, Data Science and AI/ML learning programs. 
-
-
-<!-- ========================================================= -->
-<!--                     GITHUB STATISTICS                      -->
-<!-- ========================================================= -->
-
-<a name="github-statistics"></a>
-
-# 📊 GitHub Statistics
-
+</td> </tr> </table> <!-- ========================================================= --> <!-- EDUCATION --> <!-- ========================================================= -->
+🎓 Education
+┌─────────────────────────────────────────────────────────┐
+│                    EDUCATION MATRIX                     │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  MCA — Computer Science                                │
+│  Utkal University                                      │
+│  2021 — 2023                                           │
+│  CGPA: 8.7                                             │
+│                                                         │
+│  ─────────────────────────────────────────────────────  │
+│                                                         │
+│  B.Sc — Computer Science                               │
+│  OUAT                                                   │
+│  2018 — 2021                                           │
+│  CGPA: 8.8                                             │
+│                                                         │
+│  ─────────────────────────────────────────────────────  │
+│                                                         │
+│  Intermediate                                          │
+│  College of Basic Science & Humanities, OUAT           │
+│  2016 — 2018                                           │
+│  71%                                                    │
+│                                                         │
+│  ─────────────────────────────────────────────────────  │
+│                                                         │
+│  Matriculation                                         │
+│  Govt. High School, Laxmisagar                         │
+│  2015 — 2016                                           │
+│  88%                                                    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+<!-- ========================================================= --> <!-- TEACHING --> <!-- ========================================================= -->
+👨‍🏫 Teaching & EdTech
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shuvamsahoo1234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00F5FF&icon_color=FF00C8&text_color=ffffff"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvamsahoo1234&layout=compact&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00F5FF&text_color=ffffff"/>
-
+                 SIMPLIFIED COMPUTER
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+          ▼              ▼              ▼
+       PYTHON          JAVA          AI / ML
+          │              │              │
+          ▼              ▼              ▼
+    DATA SCIENCE       OOP        MACHINE LEARNING
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+                  PRACTICAL PROJECTS
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvamsahoo1234&theme=tokyonight&hide_border=true&background=020024&ring=00F5FF&fire=FF00C8&currStreakLabel=00F5FF" />
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--                     GITHUB TROPHIES                        -->
-<!-- ========================================================= -->
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shuvamsahoo1234&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--                    CONTRIBUTION SNAKE                      -->
-<!-- ========================================================= -->
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shuvamsahoo1234/shuvamsahoo1234/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--                         PHILOSOPHY                         -->
-<!-- ========================================================= -->
-
-# 💡 Developer & Teacher Philosophy
-
-```text
-                  ┌───────────────────────┐
-                  │        PROBLEM        │
-                  └───────────┬───────────┘
-                              ↓
-                  ┌───────────────────────┐
-                  │         LEARN         │
-                  └───────────┬───────────┘
-                              ↓
-                  ┌───────────────────────┐
-                  │         CODE          │
-                  └───────────┬───────────┘
-                              ↓
-                  ┌───────────────────────┐
-                  │         TEST          │
-                  └───────────┬───────────┘
-                              ↓
-                  ┌───────────────────────┐
-                  │         BUILD         │
-                  └───────────┬───────────┘
-                              ↓
-                  ┌───────────────────────┐
-                  │        TEACH          │
-                  └───────────┬───────────┘
-                              ↓
-                  ┌───────────────────────┐
-                  │        REPEAT         │
-                  └───────────────────────┘
-```
-
-> **Learn deeply. Build practically. Teach clearly. Solve real problems.**
-
-
-<!-- ========================================================= -->
-<!--                         CONNECT                            -->
-<!-- ========================================================= -->
-
-<a name="connect-with-me"></a>
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/shuvamsahoo1234">
-<img src="https://img.shields.io/badge/GitHub-020024?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shuvam-sahoo-75a7051b8/">
-<img src="https://img.shields.io/badge/LinkedIn-020024?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
-</a>
-
-<a href="https://www.instagram.com/shuvamsahoo_swag/">
-<img src="https://img.shields.io/badge/Instagram-020024?style=for-the-badge&logo=instagram&logoColor=FF00C8"/>
-</a>
-
-<a href="https://www.instagram.com/simplifiedcomputer/">
-<img src="https://img.shields.io/badge/Simplified%20Computer-020024?style=for-the-badge&logo=instagram&logoColor=7F00FF"/>
-</a>
-
-<a href="https://simplified-computer2.odoo.com/">
-<img src="https://img.shields.io/badge/Website-020024?style=for-the-badge&logo=google-chrome&logoColor=00F5FF"/>
-</a>
-
-<a href="mailto:shuvamsahoo1234@gmail.com">
-<img src="https://img.shields.io/badge/Email-020024?style=for-the-badge&logo=gmail&logoColor=FF00C8"/>
-</a>
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--                         FUN ZONE                           -->
-<!-- ========================================================= -->
-
-# ⚡ Fun Zone
-
-<div align="center">
-
-```text
-> python shuvam.py
-
-Initializing AI Developer...
-[████████████████████] 100%
-
-Loading Python.................... OK
-Loading Machine Learning.......... OK
-Loading Data Science.............. OK
-Loading Teaching Mode............ OK
-Loading Real-World Projects....... OK
-
-SYSTEM STATUS: ONLINE
-
-> print("Let's build something intelligent 🚀")
-
-Let's build something intelligent 🚀
-```
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--                       CURRENT FOCUS                        -->
-<!-- ========================================================= -->
-
-# 📌 Current Focus
-
-```text
+Training Focus
+🐍 Python Programming
+☕ Core Java
 🤖 Artificial Intelligence
-🐍 Advanced Python
 🧠 Machine Learning
 📊 Data Science
-👨‍🏫 Python Training
-🎓 EdTech
+🗄️ MySQL / SQL
+🌐 Web Development
 💻 Software Development
-🚀 Real-World Applications
-📚 Continuous Learning
-```
-
-
-<!-- ========================================================= -->
-<!--                         FOOTER                             -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:00F5FF,50:7F00FF,75:FF00C8,100:020024&height=140&section=footer"/>
-
-### `⚡ CODE • LEARN • BUILD • TEACH • INNOVATE ⚡`
-
-<br>
-
-<img src="https://img.shields.io/badge/BUILT%20WITH-PYTHON%20%7C%20AI%20%7C%20PASSION-020024?style=for-the-badge&labelColor=020024&color=00F5FF"/>
+🧪 Project-Based Learning
+<!-- ========================================================= --> <!-- GITHUB STATS --> <!-- ========================================================= -->
+📊 GitHub Analytics
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=shuvamsahoo1234&show_icons=true&hide_border=true&theme=transparent&bg_color=020617&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvamsahoo1234&layout=compact&hide_border=true&theme=transparent&bg_color=020617&title_color=00D9FF&text_color=FFFFFF"/>
 
 <br><br>
 
-**© Shuvam Sahoo**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvamsahoo1234&theme=transparent&hide_border=true&background=020617&ring=0066FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=94A3B8"/> </div> <!-- ========================================================= --> <!-- TROPHIES --> <!-- ========================================================= -->
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shuvamsahoo1234&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/> </div> <!-- ========================================================= --> <!-- CONTRIBUTION SNAKE --> <!-- ========================================================= -->
+🐍 Contribution Activity
+<div align="center"> <img src="https://raw.githubusercontent.com/shuvamsahoo1234/shuvamsahoo1234/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/> </div> <!-- ========================================================= --> <!-- CURRENTLY --> <!-- ========================================================= -->
+🔄 Currently Working On
+<table> <tr> <td align="center">
+🤖
+
+AI / ML
+
+Building and exploring intelligent applications.
+
+</td> <td align="center">
+🐍
+
+Python
+
+Training and developing advanced Python projects.
+
+</td> <td align="center">
+🎓
+
+EdTech
+
+Creating practical learning experiences.
+
+</td> <td align="center">
+📊
+
+Data
+
+Exploring data-driven solutions.
+
+</td> </tr> </table> <!-- ========================================================= --> <!-- TERMINAL --> <!-- ========================================================= -->
+🖥️ Developer Terminal
+shuvam@developer:~$ python shuvam.py
+
+[BOOT] Initializing system.................. OK
+[BOOT] Loading Python environment........... OK
+[BOOT] Loading AI modules................... OK
+[BOOT] Loading ML models.................... OK
+[BOOT] Loading Data Science tools........... OK
+[BOOT] Loading teaching module.............. OK
+[BOOT] Connecting to Simplified Computer.... OK
+
+-----------------------------------------------
+
+SYSTEM INFORMATION
+
+Name       : Shuvam Sahoo
+Role       : AI Developer / Python Trainer
+Domain     : AI / ML / Data Science / EdTech
+Projects   : 50+
+Location   : Bhubaneswar, Odisha
+Status     : ONLINE
+
+-----------------------------------------------
+
+shuvam@developer:~$ echo "Keep building."
+
+Keep building.
+
+shuvam@developer:~$ _
+<!-- ========================================================= --> <!-- CONNECT --> <!-- ========================================================= -->
+
+<a name="connect"></a>
+
+🌐 Let's Connect
+<div align="center"> <a href="https://github.com/shuvamsahoo1234"> <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> <a href="https://www.linkedin.com/in/shuvam-sahoo-75a7051b8/"> <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/> </a> <a href="https://www.instagram.com/shuvamsahoo_swag/"> <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=FF4FD8"/> </a> <a href="https://www.instagram.com/simplifiedcomputer/"> <img src="https://img.shields.io/badge/Simplified%20Computer-020617?style=for-the-badge&logo=instagram&logoColor=7C3AED"/> </a> <a href="https://simplified-computer2.odoo.com/"> <img src="https://img.shields.io/badge/Website-020617?style=for-the-badge&logo=googlechrome&logoColor=00D9FF"/> </a> <a href="mailto:shuvamsahoo1234@gmail.com"> <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=FF4FD8"/> </a> </div> <!-- ========================================================= --> <!-- FUN ZONE --> <!-- ========================================================= -->
+⚡ Fun Zone
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=%3E+50%2B+Machine+Learning+Projects;%3E+Python+%2B+AI+%2B+Data;%3E+Teach+what+you+build;%3E+Build+what+you+learn;%3E+Always+learning+something+new;%3E+Technology+%2B+Education+%3D+Impact" alt="Fun Zone"/> </div> <!-- ========================================================= --> <!-- PHILOSOPHY --> <!-- ========================================================= -->
+💡 Developer Philosophy
+<div align="center">
+              ┌─────────────────┐
+              │      IDEA       │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │      LEARN      │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │       CODE      │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │       BUILD     │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │       TEST      │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │      TEACH      │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │      GROW       │
+              └─────────────────┘
+Learn → Build → Teach → Share → Grow
+</div> <!-- ========================================================= --> <!-- FOOTER --> <!-- ========================================================= --> <div align="center"> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0066FF,50:7C3AED,80:00D9FF,100:020617&height=160&section=footer&animation=twinkling"/>
+⌨ CODE • 🧠 LEARN • 🤖 BUILD • 👨‍🏫 TEACH
+<br> <img src="https://img.shields.io/badge/MADE%20WITH-PYTHON%20%7C%20AI%20%7C%20CURIOSITY-020617?style=for-the-badge&labelColor=020617&color=00D9FF"/>
+
+<br><br>
+
+© Shuvam Sahoo
 
 </div>
